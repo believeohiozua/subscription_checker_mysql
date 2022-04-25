@@ -2,6 +2,10 @@
 []: # Language: python, MySQL
 []: # Path: main.py
 
+### Clone the project:
+-  `git clone https://github.com/believeohiozua/subscription_checker_mysql.git`
+- change the directory to the project `cd subscription_checker_mysql`
+
 ### HOW TO RUN THE SCRIPT:
 1. install dependencies `pip install -r requirements.txt`
 2. add your database credentials to the `.env` file in the root directory
